@@ -5,12 +5,6 @@ It leverages a **Convolutional Neural Network (CNN)** built with TensorFlow/Kera
 
 ---
 
-## 🌟 Live Demo
-Below is a demonstration of the application identifying emotions from a live camera feed.  
-*(Drop in a GIF or screenshot if you have one—makes it pop!)*
-
----
-
 ## ✨ Features
 - **Real-Time Detection**: Processes webcam frames on-the-fly.  
 - **Seven Emotion Classes**: Recognizes *angry, disgust, fear, happy, neutral, sad,* and *surprise*.  
