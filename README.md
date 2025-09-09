@@ -128,20 +128,12 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ---
 
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 - FER-2013 dataset creators
 - OpenCV community for face detection algorithms
 - TensorFlow/Keras teams for the deep learning framework
 
 ---
-
-## 📧 Contact
-**Dipuraj Asaha** - [Your Email] - [Your LinkedIn]
 
 Project Link: [https://github.com/Dipurajasaha/Expresso](https://github.com/Dipurajasaha/Expresso)
 =======
