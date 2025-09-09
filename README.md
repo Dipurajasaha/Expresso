@@ -136,6 +136,3 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ---
 
 Project Link: [https://github.com/Dipurajasaha/Expresso](https://github.com/Dipurajasaha/Expresso)
-=======
-
->>>>>>> a0e75fa0ab1614177f1c10101e44877b17c15a8b
