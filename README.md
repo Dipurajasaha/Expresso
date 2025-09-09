@@ -1,7 +1,6 @@
 # Expresso: Real-Time Facial Emotion Recognition 📸
 
-Expresso is a web-based application that detects and classifies human emotions from a live webcam feed in real time.  
-It leverages a **Convolutional Neural Network (CNN)** built with TensorFlow/Keras and serves the video stream using a Flask backend.
+Expresso is a web-based application that detects and classifies human emotions from a live webcam feed in real time. It leverages a **Convolutional Neural Network (CNN)** built with TensorFlow/Keras and serves the video stream using a Flask backend.
 
 ---
 
