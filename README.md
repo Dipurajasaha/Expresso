@@ -82,7 +82,7 @@ Expresso/
 - **Architecture**: Convolutional Neural Network (CNN)
 - **Dataset**: FER-2013 (Facial Expression Recognition)
 - **Training**: Custom training pipeline in `src/train.py`
-- **Accuracy**: 73%
+- **Accuracy**: 83%
 - **Input Size**: 48x48 grayscale images
 
 ---
